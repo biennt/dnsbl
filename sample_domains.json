@@ -1,0 +1,20 @@
+{
+    "kind": "tm:ltm:data-group:internal:internalstate",
+    "name": "rpzdomains",
+    "fullPath": "rpzdomains",
+    "type": "string",
+    "records": [
+        {
+          "name": "twuzfaduiugat.net",
+          "data": "walledgarden.net"
+        },
+        {
+          "name": "oukpcwapdwcge.net",
+          "data": "advertising.net"
+        },
+        {
+          "name": "skhhchypdjige.org",
+          "data": "police.gov"
+        }
+    ]
+}
