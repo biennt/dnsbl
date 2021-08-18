@@ -1,4 +1,6 @@
 #!/bin/bash
+rm -f domains.txt
+
 tld[0]="com"
 tld[1]="net"
 tld[2]="org"
